@@ -7,7 +7,7 @@ right 最后一个元素的索引
 所以 结束判断条件为left<=right
 """
 class Solution:
-    def search(self, nums: list[int], target: int) -> int:
+    def search(self, nums: list, target: int) -> int:
         left, right = 0, len(nums) - 1
         while(left <= right):
             mid = (left + right) // 2
