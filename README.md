@@ -7,8 +7,15 @@ Using Python to solve top-100 problems in Leetcode
 
 <a href = "https://leetcode.com/problems/find-all-anagrams-in-a-string/">438. Find All Anagrams in a String</a> <span style='color:yellow'>Mid</span>
 
-<a href = "https://leetcode.com/problems/sliding-window-maximum/">239. Sliding Window Maximum</a> <span style='color:yellow'>Hard</span>
+<a href = "https://leetcode.com/problems/sliding-window-maximum/">239. Sliding Window Maximum</a> <span style='color:red'>Hard</span>
 
 <a href = "https://leetcode.com/problems/minimum-window-substring/">76. Minimum Window Substring  </a> <span style='color:red'>Hard</span>
+
 ### 2.二分查找
 <a href = "https://leetcode.com/problems/binary-search/">704. Binary Search  </a> <span style='color:lightgreen'>Easy</span>
+
+### 3.堆
+<a href = "https://leetcode.com/problems/find-median-from-data-stream/description/">295. Find Median from Data Stream  </a> <span style='color:red'>Hard</span>
+
+### 4.动态规划
+<a href = "https://leetcode.com/problems/partition-equal-subset-sum/">416. Partition Equal Subset Sum  </a> <span style='color:red'>Hard</span>
