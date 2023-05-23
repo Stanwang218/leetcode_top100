@@ -20,6 +20,8 @@ Using Python to solve top-100 problems in Leetcode
 <a href = "https://leetcode.com/problems/find-median-from-data-stream/description/">295. Find Median from Data Stream  </a> <span style='color:red'>Hard</span>
 
 ### 4.动态规划（Dynamic Programming）
+<a href = "https://leetcode.com/problems/longest-palindromic-substring/description/">5. Longest Palindromic Substring  </a> <span style='color:yellow'>Mid</span>
+
 <a href = "https://leetcode.com/problems/partition-equal-subset-sum/">416. Partition Equal Subset Sum  </a> <span style='color:red'>Hard</span>
 
 ### 5.链表（Linklist）
@@ -28,4 +30,7 @@ Using Python to solve top-100 problems in Leetcode
 <a href = "https://leetcode.com/problems/linked-list-cycle-ii/description/">142. Linked List Cycle II  </a> <span style='color:yellow'>Mid</span>
 
 ### 6.哈希表（HashTable）
-<a href = "https://leetcode.com/problems/two-sum/description/">1. Two Sum  </a> <span style='color:yellow'>Easy</span>
+<a href = "https://leetcode.com/problems/two-sum/description/">1. Two Sum  </a> <span style='color:green'>Easy</span>
+
+### 7.数组（Array）
+<a href = "https://leetcode.com/problems/3sum/">15. 3Sum  </a> <span style='color:yellow'>Mid</span>
